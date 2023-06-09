@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "server-PPBI",
+      "author": "fhanif2010",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "id": 1,
+      "name": "Agus",
+      "email": "agus@gmail.com",
+      "address": "Pamulang",
+      "phone": "08967152"
+    },
+    {
+      "nama": "qwe",
+      "email": "asdasq",
+      "alamat": "bfbfghfgh",
+      "telfon": "0883274232",
+      "id": 2
+    },
+    {
+      "name": "giat",
+      "email": "giat@gmail.com",
+      "address": "pamulang",
+      "phone": "08757283712",
+      "id": 3
+    },
+    {
+      "name": "idang",
+      "email": "idang@gmail.com",
+      "address": "Pamulang",
+      "phone": "087152319",
+      "id": 4
+    },
+    {
+      "name": "Asep",
+      "email": "Asep@gmail.com",
+      "address": "Cirendeu",
+      "phone": "092834823492",
+      "id": 5
+    },
+    {
+      "name": "Asep",
+      "email": "Asep@gmail.com",
+      "address": "Cirendeu",
+      "phone": "092834823492",
+      "id": 6
+    },
+    {
+      "name": "Asep",
+      "email": "Asep@gmail.com",
+      "address": "Cirendeu",
+      "phone": "092834823492",
+      "id": 7
+    },
+    {
+      "name": "Asep",
+      "email": "Asep@gmail.com",
+      "address": "Cirendeu",
+      "phone": "092834823492",
+      "id": 8
+    },
+    {
+      "name": "Asep",
+      "email": "Asep@gmail.com",
+      "address": "Cirendeu",
+      "phone": "092834823492",
+      "id": 9
+    }
+  ]
+}
